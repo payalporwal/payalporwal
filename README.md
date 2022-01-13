@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @payalporwal
 - 👀 I’m interested in tech, art and reading books
-- 🌱 I’m currently learning Artificial Intelligence
+- 🌱 I’m currently learning Data Science
 - 📫 How to reach me payalporwal06@gmail.com
 
 <!---
