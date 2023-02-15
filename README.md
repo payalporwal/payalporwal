@@ -14,4 +14,7 @@ You can click the Preview link to take a look at your changes.
 --->
 Statistics
 --------
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=payalporwal&show_icons=true&theme=tokyonight)
+![payal's GitHub stats](https://github-readme-stats.vercel.app/api?username=payalporwal&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=payalporwal&layout=compact&theme=tokyonight&card_width=750)](https://github.com/payalporwal/github-readme-stats)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=payalporwal&theme=tokyonight&card_width=1000) 
