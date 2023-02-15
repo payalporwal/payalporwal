@@ -14,4 +14,4 @@ You can click the Preview link to take a look at your changes.
 --->
 Statistics
 --------
-[![payal's stats](https://github-readme-stats.vercel.app/api/wakatime?username=payalporwal)](https://github.com/payalporwal/github-readme-stats)
+[![payal's stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/payalporwal/github-readme-stats)
