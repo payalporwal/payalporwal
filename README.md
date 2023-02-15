@@ -14,5 +14,5 @@ You can click the Preview link to take a look at your changes.
 --->
 Statistics
 --------
-[![Payal's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=payalporwal&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/payalporwal/github-readme-stats#gh-dark-mode-only)
+[![Payal's GitHub stats](https://github-readme-stats.vercel.app/api?username=payalporwal&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/payalporwal/github-readme-stats#gh-dark-mode-only)
 
