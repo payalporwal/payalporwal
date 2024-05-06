@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Science 
 - 💻 I'm also working on Web Development for experience
 - 📫 How to reach me payalporwal06@gmail.com
-Resume link --- https://drive.google.com/file/d/1cfYf57dznXzBuoJMrxDegKxYkkdPZGpd/view?usp=sharing
+- Resume link --- https://drive.google.com/file/d/10ExIRYl9jMjvXeIbLnALFb5U-QABMF2x/view?usp=drivesdk
 
 
 <!---
